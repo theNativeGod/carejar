@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "879960378591",
+    "firebase_url": "https://carejar-default-rtdb.firebaseio.com",
+    "project_id": "carejar",
+    "storage_bucket": "carejar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879960378591:android:a2f0d5264d480f4c856d6a",
+        "android_client_info": {
+          "package_name": "com.example.carejar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCkL1lwO4CrwdPxaXXumHn5LwU3TZ_Ugc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
